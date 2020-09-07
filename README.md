@@ -6,7 +6,8 @@
 -----------------------------------------------------------------
 
 	* An isolated colony was picked up
-	* The TSI slant was inoculated by first stabbing the butt down to the bottom, withdrawn the needle and then streked the surface
+	* The TSI slant was inoculated by first stabbing the butt down to the bottom, 
+	  withdrawn the needle and then streked the surface
 	* The tubes wereincubated for 48 hours at 37 degree C
 
 	
